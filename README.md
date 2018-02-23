@@ -2,6 +2,8 @@
 Consumed a REST Service in C# to build a Windows Desktop Application using Windows Forms. 
 I built the desktop app experience as an alternative to the conventional website experience for the department website.
 
+The API Reference - http://ist.rit.edu/api/ 
+
 The following sections of the API have been consumed:
 
 	1. About - Description, Quote, QuoteAuthor
