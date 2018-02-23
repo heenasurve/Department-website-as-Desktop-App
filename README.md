@@ -3,15 +3,25 @@ Consumed a REST Service in C# to build a Windows Desktop Application using Windo
 I built the desktop app experience as an alternative to the conventional website experience for the department website.
 
 The following sections of the API have been consumed:
+
 	1. About - Description, Quote, QuoteAuthor
+	
 	2. Degrees - all child nodes and their fields - Undergraduate , Graduate, Concentrations
+	
 	3. Minors - Title, Description, Courses for each minor
+	
 	4. Employment  - Degree Statitics, Employers, Careers, Cooptable, Employment table, MAP
+	
 	5. People - Faculty, Staff - includes all information except their facebook and twitter pages
+	
 	6. Research - By InterestArea, By faculty
+	
 	7. Resources - Study Abroad, Student Services, Tutors and Lab information, Student Ambassadors, Forms, Coop Enrollment
+	
 	8. News - By Quarter, By Year, Older
+	
 	9. Footer - Social, Quick Links, Copyright, News
+	
 	10. Contact Form 
 	
 Where all of this data lies/shows up:
