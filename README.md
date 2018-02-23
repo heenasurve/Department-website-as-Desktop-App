@@ -3,51 +3,17 @@ Consumed a REST Service in C# to build a Windows Desktop Application using Windo
 I built the desktop app experience as an alternative to the conventional website experience for the department website.
 
 The following sections of the API have been consumed:
-	1. About
-			Description
-			Quote
-			QuoteAuthor
-	2. Degrees - all child nodes and their fields
-			Undergraduate 
-			Graduate
-				Their description and the concentrations
-	3. Minors 
-			Title
-			Description
-			Courses for each minor
-	4. Employment 
-			Degree Statitics
-			Employers
-			Careers
-			Cooptable
-			Employment table
-			MAP
-	5. People - 
-			Faculty
-			Staff
-				includes all information except their facebook and twitter pages
-	6. Research
-			By InterestArea
-			By faculty
-	7. Resources
-			Study Abroad
-			Student Services
-			Tutors and Lab information
-			Student Ambassadors
-			Forms
-			Coop Enrollment
-	8. News
-			By Quarter
-			By Year
-			Older
-	9. Footer
-			Social
-			Quick Links
-			Copyright
-			News
-	10. Contact Form
+	1. About - Description, Quote, QuoteAuthor
+	2. Degrees - all child nodes and their fields - Undergraduate , Graduate, Concentrations
+	3. Minors - Title, Description, Courses for each minor
+	4. Employment  - Degree Statitics, Employers, Careers, Cooptable, Employment table, MAP
+	5. People - Faculty, Staff - includes all information except their facebook and twitter pages
+	6. Research - By InterestArea, By faculty
+	7. Resources - Study Abroad, Student Services, Tutors and Lab information, Student Ambassadors, Forms, Coop Enrollment
+	8. News - By Quarter, By Year, Older
+	9. Footer - Social, Quick Links, Copyright, News
+	10. Contact Form 
 	
-
 Where all of this data lies/shows up:
 
 	1. About Tab
@@ -69,12 +35,12 @@ Where all of this data lies/shows up:
 			Shows all of the data from the Employment section of the API
 			The button on the bottom right that reads "Where our students work !" opens up the map on being clicked
 	
-	4.People Tab
+	4. People Tab
 			The left panel first shows buttons with all the Faculty members 
 			The 2 buttons on the top load up faculty members or staff members on being clicked
 			Clicking on a button with a faculty/staff member displays more details about that person on the right
 	
-	5.Research Tab
+	5. Research Tab
 			The left panel first shows buttons with all the research/interest areas
 			The 2 buttons on the top load up interest areas or faculty members on being clicked
 			Clicking on a button with a interest area/faculty member displays the corresponding list of publications
@@ -88,9 +54,3 @@ Where all of this data lies/shows up:
 				Advising opens up a popup that has a tabbed pane with all data from the API
 				Student Ambassadors and Coop Enrollment - open up windows with corresponding information and links
 				Tutoring and lab information is on the Resources page itself
-	
-				
-			
-		
-		
-		
