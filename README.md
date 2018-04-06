@@ -66,3 +66,7 @@ Where all of this data lies/shows up:
 				Advising opens up a popup that has a tabbed pane with all data from the API
 				Student Ambassadors and Coop Enrollment - open up windows with corresponding information and links
 				Tutoring and lab information is on the Resources page itself
+<html>
+	<p> Application Design </p> 
+	<img src ="./tabbed_design_sample.png"> Application Design </img>
+</html>	
